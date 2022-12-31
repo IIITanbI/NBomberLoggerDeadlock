@@ -9,8 +9,6 @@
 
 	<ItemGroup>
 		<PackageReference Include="NBomber" Version="4.0.0-rc" />
-		<PackageReference Include="Serilog" Version="2.12.0" />
-		<PackageReference Include="Serilog.Sinks.Async" Version="1.5.0" />
 	</ItemGroup>
 
 </Project>
